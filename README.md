@@ -1,4 +1,4 @@
-UniNest – UI/UX Design (Figma)
+UniNest – UI/UX Design
 UniNest is a UI/UX wireframe designed in Figma for an app that helps international students find accommodations easily.
 
 📱 Designed for: iPhone 16
